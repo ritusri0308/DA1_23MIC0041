@@ -5,5 +5,6 @@ public class DA1 {
         System.out.println("Student Name: Ritu Srivastava");
         System.out.println("Register Number: 23mic0041");
         System.out.println("Message: Jenkins–GitHub Integration Successful");
+        System.out.println("CI Build Triggered Successfully!");
     }
 }
